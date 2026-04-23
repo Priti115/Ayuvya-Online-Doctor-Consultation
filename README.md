@@ -1,9 +1,7 @@
 # QA Test Assignment – Ayuvya Online Doctor Consultation
 
-**Submitted by:** Pritidarshini  
-**Role Applied For:** QA Intern  
-**Submission To:** careers@ayuvya.com | deepanshu.garg@ayuvya.com  
-**Subject Line:** QA Internship
+**Tested by:** Pritidarshini  
+**Role:** QA Intern  
 
 ---
 
