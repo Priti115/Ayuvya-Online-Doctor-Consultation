@@ -1,4 +1,4 @@
-# QA Test Assignment – Ayuvya Online Doctor Consultation
+#Ayuvya Online Doctor Consultation
 
 **Tested by:** Pritidarshini  
 **Role:** QA Intern  
